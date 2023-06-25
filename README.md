@@ -98,7 +98,7 @@ Many more derivatives, remixes, spin-offs and unofficial releases are available 
 ### Guides and Tutorials
 
 - [A beginners guide to installing puppy](http://www.murga-linux.com/puppy/viewtopic.php?p=199289) - a guide from one of our most experienced members
-- [Puppy How-To videos](http://rhinoweb.us/) - useful tutorials and guides
+- [Puppy How-To videos](https://www.youtube.com/@puppy_BYTE/videos)) - useful tutorials and guides
 - [What is Puppy Linux](http://puppylinux.com/)
 
 ### IRC channels
